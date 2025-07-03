@@ -1,0 +1,12 @@
+{
+  "name": "cotacao-terminal-bot",
+  "version": "1.0.0",
+  "description": "Bot de cotações de moedas no terminal usando Node.js e AwesomeAPI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
